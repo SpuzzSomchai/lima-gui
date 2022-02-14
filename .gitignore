@@ -11,3 +11,4 @@ moc_predefs.h
 moc_*.cpp
 qrc_*.cpp
 *.o
+.DS_Store
